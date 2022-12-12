@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Flutter Backend**
 
-- 💬 Ask me about **Android,Flutter**
+- 💬 Ask me about **Android, Flutter, PHP, Laravel, WordPress**
 
 - 📫 How to reach me **danishlaeeq1998@gmail.com**
 
