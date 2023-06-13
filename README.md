@@ -10,7 +10,7 @@
 
 <!-- - 🔭 I’m currently working on [Design_demo](https://github.com/danishlaeeq/Design_demo.git) -->
 
-- 🌱 I’m currently learning **Flutter Backend**
+- 🌱 I’m Expert **Flutter Developer**
 
 - 💬 Ask me about **Android, Flutter, PHP, Laravel, WordPress**
 
